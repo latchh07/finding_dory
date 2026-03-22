@@ -36,7 +36,7 @@ Before installing, ensure you have the necessary Python libraries by running
 
 ## Installation
 1. **Clone this repository**
-   - Use `git clone [your-repo-link]` or download the ZIP.
+   - Use `git clone https://github.com/latchh07/finding_dory` or download the ZIP.
 2. **Set up the Environment**
    - Create a `.env` file in the root directory and add your keys:
      ```env
