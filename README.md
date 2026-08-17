@@ -1,5 +1,5 @@
 
-# 🐟 Finding Dory
+# 🐟 Guiding Dory
 ## An Intelligent Assistant for the Forgetful.
 Finding Dory isn't just another chatbot. It’s a proactive, agentic system built to serve as a "digital companion" for individuals with early-stage dementia. By combining the reasoning power of Claude 3.5 Sonnet with real-world Singaporean data (OneMap), Dory helps users stay safe, remember their loved ones, and keep up with their health.
 
